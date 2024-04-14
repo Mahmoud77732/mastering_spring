@@ -1,0 +1,4 @@
+com\springmvc\springmvcstart\resources\JavaEE8Resource.class
+com\springmvc\springmvcstart\JAXRSConfiguration.class
+META-INF\spring.components
+com\springmvc\springmvcstart\controller\HomeController.class
