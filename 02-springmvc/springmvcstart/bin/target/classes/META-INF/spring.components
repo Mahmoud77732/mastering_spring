@@ -1,3 +1,0 @@
-com.springmvc.springmvcstart.JAXRSConfiguration=javax.ws.rs.ApplicationPath
-com.springmvc.springmvcstart.controller.HomeController=org.springframework.stereotype.Component
-com.springmvc.springmvcstart.resources.JavaEE8Resource=javax.ws.rs.Path

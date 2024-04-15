@@ -1,0 +1,8 @@
+delete these lines of code from web.xml
+---------------------------------------
+
+<listener>
+	<listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
+</listener>
+
+or other tag may be the problem

@@ -1,0 +1,6 @@
+web.xml:
+-------
+
+<welcome-file-list>
+     <welcome-file>/WEB-INF/view/main-menu.jsp</welcome-file>
+</welcome-file-list>

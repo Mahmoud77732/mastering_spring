@@ -1,0 +1,64 @@
+<dependency>
+	<groupId>javax.servlet.jsp.jstl</groupId>
+        <artifactId>jstl-api</artifactId>
+        <version>1.2</version>
+</dependency>
+
+<dependency>
+	<groupId>javax.servlet</groupId>
+        <artifactId>jstl</artifactId>
+        <version>1.2</version>
+</dependency>
+        
+<dependency>
+	<groupId>javax.el</groupId>
+        <artifactId>javax.el-api</artifactId>
+        <version>3.0.1-b06</version>
+</dependency>
+        
+<dependency>
+	<groupId>javax.el</groupId>
+        <artifactId>el-api</artifactId>
+        <version>2.2.1-b04</version>
+</dependency>
+        
+<dependency>
+	<groupId>javax.servlet.jsp</groupId>
+        <artifactId>javax.servlet.jsp-api</artifactId>
+        <version>2.3.3</version>
+</dependency>
+        
+<dependency>
+	<groupId>javax.servlet.jsp.jstl</groupId>
+        <artifactId>javax.servlet.jsp.jstl-api</artifactId>
+        <version>1.2.2</version>
+</dependency>
+
+<dependency>
+	<groupId>javax</groupId>
+	<artifactId>javaee-web-api</artifactId>
+	<version>7.0</version>
+	<scope>provided</scope>
+</dependency>
+
+
+
+-------------------------------------------------------------------------
+<dependency>
+            <groupId>javax.xml.bind</groupId>
+            <artifactId>jaxb-api</artifactId>
+            <version>2.2.11</version>
+</dependency>
+-------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+

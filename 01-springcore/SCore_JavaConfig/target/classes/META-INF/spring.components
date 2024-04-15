@@ -1,3 +1,0 @@
-com.springcore.score_ioc_di.BaseballCoach=org.springframework.stereotype.Component
-com.springcore.score_ioc_di.HappyFortuneService=org.springframework.stereotype.Component
-com.springcore.score_ioc_di.SadFortuneService=org.springframework.stereotype.Component
