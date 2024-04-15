@@ -21,7 +21,9 @@ http://localhost:8080/actuator/mappings
 http://localhost:8080/actuator/info
 
 *  spring-boot-starter-security
-default:
-    username = user
-    password is in "output"
+    default:
+        username = user
+        password is in "output"
+    custom:
+        values in application.properties
 */
